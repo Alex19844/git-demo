@@ -2,3 +2,4 @@ test strings
 from test_txt.txt
 one more string
 one more line
+another text
