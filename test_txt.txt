@@ -1,0 +1,2 @@
+test strings
+from test_txt.txt
